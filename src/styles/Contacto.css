@@ -1,0 +1,28 @@
+.contacto-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.contacto-content {
+  flex: 1;
+  padding: 2rem;
+  text-align: center;
+  background-color: #fdfdfd;
+}
+
+.btn-telegram {
+  background-color: #0088cc;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.btn-telegram:hover {
+  background-color: #0077b3;
+}
