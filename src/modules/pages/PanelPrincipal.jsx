@@ -9,7 +9,7 @@ export function PanelPrincipal() {
       title: "Cien años de soledad",
       author: "Gabriel García Márquez",
       description: "Una obra maestra del realismo mágico.",
-      image: "https://drive.google.com/thumbnail?id=1MYR5abv6BijS0iwM9-Ztpx4i9ojwvnrt"
+      image: "/books/cienanos.jpg"
     },
     {
       title: "Rayuela",
